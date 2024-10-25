@@ -1,2 +1,2 @@
-# Ray6-0
+# Raylib animate player sample
  
