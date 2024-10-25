@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oz6dnvbwyrU=",
+  "success": true,
+  "projectFilePath": "E:\\__Dev\\__Raylib.cs\\2024-RaylibStarter-2\\Ray6-0\\Ray6-0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Darryl\\.nuget\\packages\\raylib-cs\\6.0.0\\raylib-cs.6.0.0.nupkg.sha512",
+    "C:\\Users\\Darryl\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
